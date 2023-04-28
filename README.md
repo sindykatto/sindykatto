@@ -1,16 +1,29 @@
-### Hi there 👋
+# sindykatto
+---
 
-<!--
-**sindykatto/sindykatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### about
 
-Here are some ideas to get you started:
+🤍 hi, u can call me sin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖤 ex-hacker, ex-prodigy, ex-girlfriend
+
+---
+
+### working on
+
+⚡ [@VoltaicHQ](https://github.com/VoltaicHQ/) projects
+
+---
+
+### i could be a
+💾 software engineer
+
+👤 ui/ux engineer
+
+📝 project manager
+
+⚙️ devops
+
+---
+
+hire me for anything
