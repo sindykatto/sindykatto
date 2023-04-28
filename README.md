@@ -2,9 +2,9 @@
 
 ### about
 
-🤍 hi, u can call me sin.
+🤍 hi, u can call me sin
 
-🖤 ex-hacker. ex-prodigy. ex-girlfriend.
+🖤 ex-hacker, ex-prodigy, ex-girlfriend
 
 ---
 
@@ -21,7 +21,7 @@
 
 📝 project manager
 
-⚙️ devops
+⚙️ devops engineer
 
 ---
 
