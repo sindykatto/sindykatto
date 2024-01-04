@@ -2,15 +2,15 @@
 
 ### about
 
-🤍 hi, u can call me sin
-
-🖤 ex-hacker, ex-prodigy, ex-girlfriend
+😈 hi, u can call me sin
 
 ---
 
 ### working on
 
 ⚡ [@VoltaicHQ](https://github.com/VoltaicHQ/) projects
+
+🔫 [R5Reloaded](https://github.com/ColombianGuy/r5_flowstate) servers
 
 ---
 
@@ -23,6 +23,4 @@
 
 ⚙️ devops engineer
 
----
-
-hire me for anything
+🦕 idk
