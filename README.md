@@ -2,7 +2,7 @@
 
 ### about
 
-😈 hi, u can call me sin
+😈 hi, u can call me sin, also known as an0nphr3ak
 
 ---
 
